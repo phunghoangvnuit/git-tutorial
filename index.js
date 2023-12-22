@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('index.js is v0.0.8');
+console.log('index.js is v0.0.9');

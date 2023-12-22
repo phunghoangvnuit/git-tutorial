@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('config.js is v0.0.5');
+console.log('config.js is v0.0.6');
